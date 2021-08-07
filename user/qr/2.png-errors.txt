@@ -1,0 +1,30 @@
+2019-04-05 04:38:13: empty string!!!2019-04-05 04:38:31: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\qr\qr\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>685</b><br />
+2019-04-05 04:38:45: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\qr\qr\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>685</b><br />
+2019-04-05 04:39:43: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\qr\qr\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\qr\qrinput.php</b> on line <b>685</b><br />
